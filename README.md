@@ -4,19 +4,16 @@
 
 EPContactsPicker
 ===========
-Contacts picker component using new contacts framework by apple
-
+Contacts picker component using the contacts framework by apple
 
 [![Platform](https://img.shields.io/cocoapods/p/EPContactsPicker.svg?style=flat)](http://cocoapods.org/pods/EPContactsPicker)
-[![Swift 3](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](https://developer.apple.com/swift/)
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EPContactsPicker.svg?style=flat)](http://cocoadocs.org/docsets/EPContactsPicker)
-[![CI Status](https://travis-ci.org/ipraba/EPContactsPicker.svg?branch=master)](https://travis-ci.org/ipraba/EPContactsPicker)
+[![Swift 5](https://img.shields.io/badge/Swift-5.0-orange.svg?style=flat)](https://developer.apple.com/swift/)
 [![License](https://img.shields.io/cocoapods/l/Ouroboros.svg?style=flat)](https://github.com/ipraba/EPContactsPicker/blob/master/LICENSE)
 [![Twitter: @HaveYouMetPrabu](https://img.shields.io/badge/contact-@HaveYouMetPrabu-blue.svg?style=flat)](https://twitter.com/HaveYouMetPrabu)
 
 Preview
 -------
-![Single Selection](https://raw.githubusercontent.com/ipraba/EPContactsPicker/master/Screenshots/Screen2.png)    ![Multi Selection](https://raw.githubusercontent.com/ipraba/EPContactsPicker/master/Screenshots/Screen3.png)
+![Single Selection](https://raw.githubusercontent.com/1SecondEveryday/EPContactsPicker/master/Screenshots/Screen2.png)    ![Multi Selection](https://raw.githubusercontent.com/1SecondEveryday/EPContactsPicker/master/Screenshots/Screen3.png)
 
 # Installation #
 
@@ -31,8 +28,8 @@ Just drag and drop the `EPContactsPicker` folder into your project
 
 # Requirements #
 
-* iOS9+
-* Swift 3.0
+* iOS 13+
+* Swift 5.0
 * ARC
 
 For manual installation you might have to add these frameworks in your Build Phases
@@ -74,10 +71,9 @@ EPContact object provides you the properties of a contact. This contains propert
 
 ## License ##
 
-EPContactsPicker is available under the MIT license. See the [LICENSE](https://github.com/ipraba/EPContactsPicker/blob/master/LICENSE) file for more info.
+EPContactsPicker is available under the MIT license. See the [LICENSE](https://github.com/1SecondEveryday/EPContactsPicker/blob/master/LICENSE) file for more info.
 
 ## Contributors ##
 
 [@ipraba](https://github.com/ipraba)
 [@Sorix](https://github.com/Sorix)
-

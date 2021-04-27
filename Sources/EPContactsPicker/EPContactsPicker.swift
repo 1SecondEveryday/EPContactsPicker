@@ -86,7 +86,7 @@ open class EPContactsPicker: UITableViewController, UISearchResultsUpdating, UIS
     }
     
     fileprivate func registerContactCell() {
-        let bundle = Bundle(for: self.classForCoder)
+        let bundle = Bundle.module
         let cellNib = UINib(nibName: EPGlobalConstants.Strings.cellNibIdentifier, bundle: bundle)
         tableView.register(cellNib, forCellReuseIdentifier: "Cell")
     }
